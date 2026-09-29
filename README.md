@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning 
 
 Machine Learning is a branch of Artificial Intelligence that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed. This repository focuses on understanding and implementing fundamental machine learning concepts through practical examples and experiments.
 
